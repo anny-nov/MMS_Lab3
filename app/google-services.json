@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790544775510",
+    "project_id": "lab3novozhilova",
+    "storage_bucket": "lab3novozhilova.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790544775510:android:af25664c1c8768f7fdbef7",
+        "android_client_info": {
+          "package_name": "pl.edu.pwr.i269691.lab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790544775510-gnj2kt8r7f8agt05rga8etbund0neorl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEl19OXD7v4Q_iCtzKNrskQJMiQmj_W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790544775510-gnj2kt8r7f8agt05rga8etbund0neorl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

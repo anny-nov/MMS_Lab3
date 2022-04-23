@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="start">Start</string>
+    <string name="load">Load data from Gallery</string>
+    <string name="make_a_photo">Make a Photo</string>
+    <string name="todo">TODO</string>
+    <string name="capture_image">Capture image</string>
+    <string name="recognize_text">Recognize text</string>
+</resources>
